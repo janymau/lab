@@ -11,7 +11,7 @@ print("Cheers, Mate!")
 #written in
 #more than just one line
 print("Hello, World!")
-#Example 4
+#Example 5
 """
 This is a comment
 written in
