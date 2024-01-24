@@ -1,3 +1,8 @@
+txt = "Hello World"
+x = txt[2:5]
+
+
+
 #example 1
 a = "Hello"
 b = "World"

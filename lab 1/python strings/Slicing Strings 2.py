@@ -1,3 +1,10 @@
+txt = "Hello World"
+x = txt[0]
+
+
+
+
+
 #example 1
 b = "Hello, World!"
 print(b[2:5])

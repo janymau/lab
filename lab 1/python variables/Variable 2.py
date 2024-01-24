@@ -1,3 +1,6 @@
+x = 50
+
+
 #example 1
 myvar = "John"
 my_var = "John"

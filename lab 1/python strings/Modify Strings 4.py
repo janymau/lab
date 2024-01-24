@@ -1,3 +1,9 @@
+txt = " Hello World "
+x = txt.strip()
+
+
+
+
 #example 1
 a = "Hello, World!"
 print(a.split(",")) # returns ['Hello', ' World!']

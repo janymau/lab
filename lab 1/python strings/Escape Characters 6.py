@@ -1,3 +1,10 @@
+txt = "Hello World"
+txt = txt.lower()
+
+
+
+
+
 #Example 1
 txt = "We are the so-called \"Vikings\" from the north."
 Code	Result

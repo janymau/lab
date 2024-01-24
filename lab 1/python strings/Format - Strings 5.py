@@ -1,3 +1,8 @@
+txt = "Hello World"
+txt = txt.upper()
+
+
+
 #Example 1
 age = 36
 txt = "My name is John, and I am {}"

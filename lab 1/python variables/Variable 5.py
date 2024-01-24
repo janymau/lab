@@ -1,3 +1,8 @@
+x ,y, z = "Orange", "Banana", "Cherry"
+
+
+
+
 #example 1
 x = "awesome"
 

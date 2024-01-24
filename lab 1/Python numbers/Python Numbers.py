@@ -1,3 +1,8 @@
+x = 5
+x = float(x)
+
+
+
 #example 1
 x = 1    # int
 y = 2.8  # float

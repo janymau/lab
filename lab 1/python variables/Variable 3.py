@@ -1,3 +1,11 @@
+
+x = 5
+y = 10
+print(x + y)
+
+
+
+
 #example 1
 x = 5
 y = "John"

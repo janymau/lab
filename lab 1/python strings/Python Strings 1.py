@@ -1,3 +1,8 @@
+x = "Hello World"
+print(len(x))
+
+
+
 #example 1
 print("Hello")
 print('Hello')
